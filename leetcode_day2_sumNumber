@@ -1,0 +1,42 @@
+给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。
+
+如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。
+
+您可以假设除了数字 0 之外，这两个数都不会以 0 开头。
+
+示例：
+
+输入：(2 -> 4 -> 3) + (5 -> 6 -> 4)
+输出：7 -> 0 -> 8
+原因：342 + 465 = 807
+
+以上为题目。
+
+由于我用的是JavaScript，所以链表得自己定义，由于起初的审题失误，导致第一次做题直接用了数组存储整数，结果如下：
+function getNumber(arr){
+    var result=0,
+        a=1;
+    for(var i=0;i<arr.length;i++){
+        result+=arr[i]*a;
+	    a=a*10;
+    }
+    return result;
+}
+function getArray(number){
+    var result=[];
+    var str = number.toString();
+    for(var i=0;i<str.length;i++){
+        result.push(parseInt(str[i]));
+    }
+    return result.reverse();
+}
+var addTwoNumbers = function(l1, l2) {
+    var n1=getNumber(l1),
+        n2=getNumber(l2);
+    var result_number = n1 + n2;
+    return getArray(result_number);
+};
+
+（上面的代码为电脑重复敲，但为了更好的理解浏览器如何解释代码，我选择了以后做题手写代码）
+核心思想是把数组还原成数字，再相加得出结果，结果转换为数组再用reverse方法倒序输出结果，满足题意。
+但不满足题目中一个关键要素————用链表存储整数，于是功亏一篑，重做如下：
