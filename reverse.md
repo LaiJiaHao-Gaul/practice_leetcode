@@ -1,7 +1,7 @@
 # 整数反转（简单） 
 ![](整数反转题目.png)
 
-完成日期：2019/5/10
+代码如下：
 ```
 var reverse = function(x) {
     var a='',
@@ -27,3 +27,6 @@ var reverse = function(x) {
     }
 };
 ```
+运行结果：
+![](reverse运行结果.png)
+完成日期：2019/5/10
