@@ -28,5 +28,7 @@ var reverse = function(x) {
 };
 ```
 运行结果：
+
 ![](reverse运行结果.png)
+
 完成日期：2019/5/10
