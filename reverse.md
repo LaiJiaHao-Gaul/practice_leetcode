@@ -1,2 +1,28 @@
 # 整数反转（简单） 
 ![](整数反转题目.png)
+完成日期：2019/5/10
+'''javascrpt
+var reverse = function(x) {
+    var a='',
+        i;
+        x=x.toString();
+        i=x.length;
+    if(x[0]==='-'){
+        a+='-'
+        while(i>1){
+            a+=x[i-1];
+            i--;
+        }
+    }else{
+        while(i>0){
+            a+=x[i-1];
+            i--;
+        }
+    }
+    if(a <= 2147483647 && a>= -2147483648){
+        return a;
+    }else{
+        return 0;
+    }
+};
+'''
