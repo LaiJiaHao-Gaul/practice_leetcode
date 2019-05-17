@@ -8,3 +8,61 @@
 [0513/221401:ERROR:ffmpeg_demuxer.cc(1510)] media::FFmpegDemuxer::OnReadFrameDone result=-541478725 IsMaxMemoryUsageReached=0
 [0513/221624:ERROR:ffmpeg_demuxer.cc(1510)] media::FFmpegDemuxer::OnReadFrameDone result=-541478725 IsMaxMemoryUsageReached=0
 [0514/233330:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0516/151046:INFO:exception_record.cc(518)] [QB]Process ID: 12060 Type: 2
+[0516/151053:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned 0, SSL error code 1, net_error -107
+[0516/151054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/151054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/151055:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/151158:INFO:exception_record.cc(518)] [QB]Process ID: 5344 Type: 2
+[0516/151247:WARNING:webmediaplayer_impl.cc(341)] Using MultibufferDataSource
+[0516/151247:ERROR:ffmpeg_demuxer.cc(1510)] media::FFmpegDemuxer::OnReadFrameDone result=-541478725 IsMaxMemoryUsageReached=0
+[0516/154054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/161054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/164054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/171054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/174054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/181054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/184054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/191054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/194054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/194842:INFO:exception_record.cc(518)] [QB]Process ID: 19048 Type: 2
+[0516/201054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/204054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/211054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/214054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/221054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/221056:INFO:exception_record.cc(518)] [QB]Process ID: 6608 Type: 2
+[0516/224054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/231054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0516/234054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/001054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/004054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/011054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/014054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/021054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/024054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/031054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/034054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/041054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/044054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/051054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/054054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/061054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/064054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/071054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/074054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/081054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/084054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/091054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/094054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/101054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/104054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/111054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/114054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/121054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/124054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/131054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/134054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/141054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/144054:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0517/151054:WARNING:quota_manager.cc(1833)] Create directory failed for path
